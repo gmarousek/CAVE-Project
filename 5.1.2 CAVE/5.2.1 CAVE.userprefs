@@ -1,0 +1,34 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\getReal3D\Examples\Scripts\Wands\GrabbingWand.cs">
+    <Files>
+      <File FileName="Assets\Collision.cs" Line="6" Column="2" />
+      <File FileName="Assets\WandOperations.cs" Line="27" Column="4" />
+      <File FileName="Assets\getReal3D\Examples\Scripts\Wands\WandManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\getReal3D\Examples\Scripts\Wands\GrabbingWand.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="5.2.1 CAVE" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="getReal3D" expanded="True">
+                <Node name="Examples" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Wands" expanded="True">
+                      <Node name="GrabbingWand.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
